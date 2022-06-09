@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @phongttrinh
 - 👀 I’m interested in mechatronics, robotics, intelligent systems, AI and startups
-- 🌱 I’m currently learning mechatronics major
+- 🌱 I’m currently a mechatronics student
 - 📫 if you think we have the same interests and please feel free to hit me at anytime. We can be a great team :):):)
 
 <!---
